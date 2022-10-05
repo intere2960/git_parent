@@ -1,4 +1,4 @@
 [submodule "git_submodule"]
 	path = git_submodule
 	url = https://github.com/intere2960/git_submodule.git
-	branch = 1.0
+	branch = main
